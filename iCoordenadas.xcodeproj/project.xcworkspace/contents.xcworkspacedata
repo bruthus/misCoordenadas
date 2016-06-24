@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:misCoordenadas.xcodeproj">
+      location = "self:/Users/servega/Documents/Proyectos/Swift/misCoordenadas/iCoordenadas.xcodeproj">
    </FileRef>
 </Workspace>

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "10D552531D1C987E0067F9D5"
-               BuildableName = "misCoordenadas.app"
-               BlueprintName = "misCoordenadas"
-               ReferencedContainer = "container:misCoordenadas.xcodeproj">
+               BuildableName = "iCoordenadas.app"
+               BlueprintName = "iCoordenadas"
+               ReferencedContainer = "container:iCoordenadas.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "10D552531D1C987E0067F9D5"
-            BuildableName = "misCoordenadas.app"
-            BlueprintName = "misCoordenadas"
-            ReferencedContainer = "container:misCoordenadas.xcodeproj">
+            BuildableName = "iCoordenadas.app"
+            BlueprintName = "iCoordenadas"
+            ReferencedContainer = "container:iCoordenadas.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "10D552531D1C987E0067F9D5"
-            BuildableName = "misCoordenadas.app"
-            BlueprintName = "misCoordenadas"
-            ReferencedContainer = "container:misCoordenadas.xcodeproj">
+            BuildableName = "iCoordenadas.app"
+            BlueprintName = "iCoordenadas"
+            ReferencedContainer = "container:iCoordenadas.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "10D552531D1C987E0067F9D5"
-            BuildableName = "misCoordenadas.app"
-            BlueprintName = "misCoordenadas"
-            ReferencedContainer = "container:misCoordenadas.xcodeproj">
+            BuildableName = "iCoordenadas.app"
+            BlueprintName = "iCoordenadas"
+            ReferencedContainer = "container:iCoordenadas.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
